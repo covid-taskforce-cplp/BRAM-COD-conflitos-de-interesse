@@ -23,6 +23,7 @@ tópico no Reddit r/coronabr: <https://www.reddit.com/r/coronabr/comments/ge9tth
     - [Links rapidos](#links-rapidos)
         - [Discussões](#discussões)
         - [Fonte de material citado](#fonte-de-material-citado)
+        - [Autores do BRAM-COD](#autores-do-bram-cod)
         - [Imagens](#imagens)
 - [Licença](#licença)
 
@@ -51,6 +52,34 @@ tópico no Reddit r/coronabr: <https://www.reddit.com/r/coronabr/comments/ge9tth
   - **<https://www.medrxiv.org/content/10.1101/2020.04.29.20081174v1.full.pdf>**
     - Cópia de segurança:
       - [evidencia/2020-05-06T01:33Z_medrxiv.org(paper-pre-print)_2020.04.29.20081174v1.full.pdf](2020-05-06T01:33Z_medrxiv.org(paper-pre-print)_2020.04.29.20081174v1.full.pdf)
+
+### Autores do BRAM-COD
+Em ordem de citação exata no artigo:
+
+1. **Samy Dana**
+    - Fundacao Getulio Vargas (EASP-FGV), Brazil;
+    - Twitter: <https://twitter.com/samydana>
+    - Google Scholar: <https://scholar.google.com/scholar?q=Samy+Dana+>
+2. **Alexandre B. Simas**
+    - Mathematics Department, Federal University of Paraiba, Brazil;
+    - Twitter: <https://twitter.com/AlexandreIMPA>
+    - Google Scholar: <https://scholar.google.com/scholar?q=Alexandre+B+Simas+>
+3. **Bruno A. Filardi**
+    - Scientific Director of Cancer Institute, Brazil;
+    - Twitter: <https://twitter.com/mab_sp125>
+    - Google Scholar: <https://scholar.google.com/scholar?q=Bruno+A+Filardi+>
+4. **Rodrigo N. Rodriguez**
+    - Director of Ubarana Hospital, Taubate, Brazil;
+    - Twitter: ???
+    - Google Scholar: <https://scholar.google.com/scholar?q=Rodrigo+N+Rodriguez+>
+5. **Leandro Lane da Costa Valiengo**
+    - University of Sao Paulo, Institute of Psychiatry, Brazil
+    - Twitter: ???
+    - Google Scholar: <https://scholar.google.com/scholar?q=Leandro+Lane+da+Costa+Valiengo+>
+6. **Jose Gallucci-Neto**
+    - University of Sao Paulo, Institute of Psychiatry, Brazil
+    - Twitter: <https://twitter.com/josegallucci>
+    - Google Scholar: <https://scholar.google.com/scholar?q=Jose+Gallucci-Neto+>
 
 ### Imagens
 
