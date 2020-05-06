@@ -1,0 +1,6 @@
+- http://www.samydana.com.br/
+  - http://archive.vn/EFct3
+- https://www.linkedin.com/in/samy-dana-028b84b/
+  - http://archive.vn/mku9y
+- https://www.facebook.com/pg/samydana/posts/?ref=page_internal
+  - http://archive.vn/QgXpj
