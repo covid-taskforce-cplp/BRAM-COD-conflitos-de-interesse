@@ -1,6 +1,24 @@
 # Arquivos sobre potencial conflitos de interesse no BRAM-COD
+
+---
+> **Projeto arquivado. Conteúdo original será mantido por questões históricas**
+> 
+> Conforme [issues/2#issuecomment-728668416](https://github.com/covid-taskforce-cplp/BRAM-COD-conflitos-de-interesse/issues/2#issuecomment-728668416)
+> Muita discussão em torno desse topico, do `covid-taskforce-cplp/BRAM-COD-conflitos-de-interesse`, foram tanto feitas em privado como em trocas de tweets. Um dos autores que mais destaque do BRAM-COD chegou a bloquear minha conta pessoal de twitter, porém os demais foram mais razoáveis.
+> 
+> Inclusive poucas semanas depois foram mais claros tanto na revisão seguinte, como em tweets (inclusive da pessoa que me bloqueou) passou a tomar mais consciência sobre se dizer completamente isento. Outra coisa que fez diferença é que o modelo matemático que propuseram no final ficou mais alinhado a um que reclamavam nas redes sociais como "sendo errado". Isso isoladamente já ajudou a terem mais humildade.
+> 
+> Em função do dito acima, tanto as discussões em privado, tweets, pastas compartilhadas do Google Docs, etc, vamos arquivar o `covid-taskforce-cplp/BRAM-COD-conflitos-de-interesse`.
+> 
+> Obrigado a todos!
+
+---
+
+
+
 > **Coleção de potenciais evidências de ocultação intencional de conflitos
 > de interesse no ["Brazilian Modeling of COVID-19(BRAM-COD)"](https://www.medrxiv.org/content/10.1101/2020.04.29.20081174v1), um artigo não revisado por pares e que está sendo amplamente usado para instigar redução de recomendações de saúde internacionais no Brasil**
+
 
 [![Hotsite](https://img.shields.io/badge/Hotsite-covid.etica.ai%2FBRAM--COD--conflitos--de--interesse-green)](https://covid.etica.ai/BRAM-COD-conflitos-de-interesse)
 [![GitHub](https://img.shields.io/badge/GitHub-covid--taskforce--cplp%2FBRAM--COD--conflitos--de--interesse-blue)](https://github.com/covid-taskforce-cplp/BRAM-COD-conflitos-de-interesse)
